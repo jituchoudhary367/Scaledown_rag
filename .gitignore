@@ -1,0 +1,35 @@
+# Environments
+.env
+venv*/
+venv/
+env/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data and Logs
+logs/
+*.log
+*.csv
+*.pdf
+classic/data/*.pdf
+RAG_summarization/data/*.pdf
+scaledown_rag/data/*.pdf
+classic/logs/
+RAG_summarization/logs/
+scaledown_rag/logs/
+
+# Optional: Jupyter Notebooks
+.ipynb_checkpoints/
+
+# OS generated files
+.DS_Store
+Thumbs.db

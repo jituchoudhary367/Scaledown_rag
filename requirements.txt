@@ -1,0 +1,17 @@
+openai
+langchain
+langchain-community
+langchain-openai
+langchain-core
+langchain-huggingface
+faiss-cpu
+pypdf
+tiktoken
+numpy
+pandas
+tqdm
+python-dotenv
+sentence-transformers
+streamlit
+plotly
+scaledown
