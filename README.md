@@ -111,10 +111,9 @@ pip install -r requirements.txt
 Create a `.env` file in the root directory (this is git-ignored):
 
 ```env
-OPENROUTER_API_KEY="your_openrouter_api_key"
 OPENAI_API_KEY="your_openai_api_key"
 SCALEDOWN_API_KEY="your_scaledown_api_key"
-LLM_MODEL="nvidia/nemotron-3-super-120b-a12b:free" # Or any OpenRouter/OpenAI model
+LLM_MODEL="OpenAI model"
 ```
 
 ### 3. Running the Benchmark
