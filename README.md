@@ -1,6 +1,5 @@
 # 🔬 RAG Architecture Comparison & Benchmarking
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](#)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
