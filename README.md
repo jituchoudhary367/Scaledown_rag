@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A comprehensive framework to experiment, benchmark, and visualize the performance of different Retrieval-Augmented Generation (RAG) architectures. This project specifically compares **Classic RAG**, **Map-Reduce Summarization RAG**, and **ScaleDown Context Compression RAG**.*.*
-![Dashboard Preview](dashboard_preview.png) *(Note: Dashboard provides real-time Latency, Token Usage, and Quality metrics).*
+
 
 ---
 
