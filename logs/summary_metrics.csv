@@ -1,0 +1,4 @@
+pipeline,num_queries,avg_latency,p95_latency,avg_retrieval_time,avg_compression_time,avg_generation_time,avg_input_tokens,avg_output_tokens,avg_total_tokens,avg_original_tokens,avg_optimized_tokens,avg_compression_ratio,avg_quality
+classic_rag,5,13.8011,23.301,0.2854,0.0,13.5157,480.0,58.0,538.0,470.6,470.6,1.0,0.74
+summarization_rag,5,9.8972,22.7489,0.03,92.5506,9.8672,486.2,106.8,2738.2,470.6,476.8,1.0,0.89
+scaledown_rag,5,3.8488,5.8682,0.0221,0.0002,3.8266,308.4,58.6,367.0,460.0,298.0,1.55,0.926

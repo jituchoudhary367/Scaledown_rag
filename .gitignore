@@ -15,12 +15,14 @@ __pycache__/
 *.swp
 *.swo
 
+# General file patterns
+*.log
+*.csv
+
 # Data and Logs
 logs/*
 !logs/results.csv
 !logs/summary_metrics.csv
-*.log
-*.csv
 classic/logs/
 RAG_summarization/logs/
 scaledown_rag/logs/
