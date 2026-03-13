@@ -19,10 +19,6 @@ __pycache__/
 logs/
 *.log
 *.csv
-*.pdf
-classic/data/*.pdf
-RAG_summarization/data/*.pdf
-scaledown_rag/data/*.pdf
 classic/logs/
 RAG_summarization/logs/
 scaledown_rag/logs/
