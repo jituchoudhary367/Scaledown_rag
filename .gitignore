@@ -17,6 +17,8 @@ __pycache__/
 
 # Data and Logs
 logs/
+!logs/results.csv
+!logs/summary_metrics.csv
 *.log
 *.csv
 classic/logs/
