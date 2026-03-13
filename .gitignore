@@ -16,7 +16,7 @@ __pycache__/
 *.swo
 
 # Data and Logs
-logs/
+logs/*
 !logs/results.csv
 !logs/summary_metrics.csv
 *.log
